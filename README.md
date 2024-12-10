@@ -1,4 +1,9 @@
+
 # donut.py 🍩
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RxajN3NXc5YzRpOXM5amdtbjQwazRwb2Z5NmxqYXFpMHY1Nm81NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C97yIciQ8wz1oiEE37/giphy.gif" alt="donut.py">
+</div>
 
 A Python implementation of the famous "donut.c" ASCII art animation, with explicit and optimized versions for learning purposes.
 
